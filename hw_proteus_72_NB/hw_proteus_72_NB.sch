@@ -1,0 +1,2510 @@
+EESchema Schematic File Version 4
+LIBS:hw_proteus_72_NB-cache
+EELAYER 29 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:TestPoint_2Pole W1
+U 1 1 5E91FABB
+P 11900 1000
+F 0 "W1" V 11900 1000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1000 50  0001 C CNN
+F 3 "~" H 11900 1000 50  0001 C CNN
+	1    11900 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W4
+U 1 1 5E921E60
+P 11900 1100
+F 0 "W4" V 11900 1100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1100 50  0001 C CNN
+F 3 "~" H 11900 1100 50  0001 C CNN
+	1    11900 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W7
+U 1 1 5E922204
+P 11900 1200
+F 0 "W7" V 11900 1200 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1304 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1200 50  0001 C CNN
+F 3 "~" H 11900 1200 50  0001 C CNN
+	1    11900 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W10
+U 1 1 5E92220E
+P 11900 1300
+F 0 "W10" V 11900 1300 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1404 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1300 50  0001 C CNN
+F 3 "~" H 11900 1300 50  0001 C CNN
+	1    11900 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W12
+U 1 1 5E922BD0
+P 11900 1400
+F 0 "W12" V 11900 1400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1400 50  0001 C CNN
+F 3 "~" H 11900 1400 50  0001 C CNN
+	1    11900 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W15
+U 1 1 5E922BDA
+P 11900 1500
+F 0 "W15" V 11900 1500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1500 50  0001 C CNN
+F 3 "~" H 11900 1500 50  0001 C CNN
+	1    11900 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W18
+U 1 1 5E922BEE
+P 11900 1700
+F 0 "W18" V 11900 1700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1700 50  0001 C CNN
+F 3 "~" H 11900 1700 50  0001 C CNN
+	1    11900 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W21
+U 1 1 5E9275FA
+P 11900 1800
+F 0 "W21" V 11900 1800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 1904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 1800 50  0001 C CNN
+F 3 "~" H 11900 1800 50  0001 C CNN
+	1    11900 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W26
+U 1 1 5E92760E
+P 11900 2000
+F 0 "W26" V 11900 2000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 2104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 2000 50  0001 C CNN
+F 3 "~" H 11900 2000 50  0001 C CNN
+	1    11900 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W29
+U 1 1 5E927618
+P 11900 2100
+F 0 "W29" V 11900 2100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 2204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 2100 50  0001 C CNN
+F 3 "~" H 11900 2100 50  0001 C CNN
+	1    11900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W32
+U 1 1 5E927622
+P 11900 2200
+F 0 "W32" V 11900 2200 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 2304 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 2200 50  0001 C CNN
+F 3 "~" H 11900 2200 50  0001 C CNN
+	1    11900 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W36
+U 1 1 5E927636
+P 11900 2400
+F 0 "W36" V 11900 2400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 2504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 2400 50  0001 C CNN
+F 3 "~" H 11900 2400 50  0001 C CNN
+	1    11900 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W39
+U 1 1 5E927640
+P 11900 2500
+F 0 "W39" V 11900 2500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 2604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 2500 50  0001 C CNN
+F 3 "~" H 11900 2500 50  0001 C CNN
+	1    11900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W42
+U 1 1 5E929A38
+P 11900 2700
+F 0 "W42" V 11900 2700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 2804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 2700 50  0001 C CNN
+F 3 "~" H 11900 2700 50  0001 C CNN
+	1    11900 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W45
+U 1 1 5E929A42
+P 11900 2800
+F 0 "W45" V 11900 2800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 2904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 2800 50  0001 C CNN
+F 3 "~" H 11900 2800 50  0001 C CNN
+	1    11900 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W52
+U 1 1 5E929A60
+P 11900 3100
+F 0 "W52" V 11900 3100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 3204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 3100 50  0001 C CNN
+F 3 "~" H 11900 3100 50  0001 C CNN
+	1    11900 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W55
+U 1 1 5E929A6A
+P 11900 3200
+F 0 "W55" V 11900 3200 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 3304 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 3200 50  0001 C CNN
+F 3 "~" H 11900 3200 50  0001 C CNN
+	1    11900 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W57
+U 1 1 5E929A74
+P 11900 3300
+F 0 "W57" V 11900 3300 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 3404 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 3300 50  0001 C CNN
+F 3 "~" H 11900 3300 50  0001 C CNN
+	1    11900 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W60
+U 1 1 5E929A7E
+P 11900 3400
+F 0 "W60" V 11900 3400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 3504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 3400 50  0001 C CNN
+F 3 "~" H 11900 3400 50  0001 C CNN
+	1    11900 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W63
+U 1 1 5E929A88
+P 11900 3500
+F 0 "W63" V 11900 3500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 3604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 3500 50  0001 C CNN
+F 3 "~" H 11900 3500 50  0001 C CNN
+	1    11900 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W65
+U 1 1 5E929A92
+P 11900 3600
+F 0 "W65" V 11900 3600 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 3704 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 3600 50  0001 C CNN
+F 3 "~" H 11900 3600 50  0001 C CNN
+	1    11900 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L 1123038-2:1123038-2 P1
+U 1 1 5E91AA6C
+P 13500 2600
+F 0 "P1" H 15169 2861 50  0000 L CNN
+F 1 "1123038-2" H 15169 2770 50  0000 L CNN
+F 2 "rusefi_lib:1123038-2" V 15250 1600 50  0001 C CNN
+F 3 "" V 15250 3200 50  0001 C CNN
+	1    13500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W70
+U 1 1 5E935188
+P 11900 3800
+F 0 "W70" V 11900 3800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 11900 3904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 11900 3800 50  0001 C CNN
+F 3 "~" H 11900 3800 50  0001 C CNN
+	1    11900 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W2
+U 1 1 5E9366EF
+P 13300 1000
+F 0 "W2" V 13300 1000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1000 50  0001 C CNN
+F 3 "~" H 13300 1000 50  0001 C CNN
+	1    13300 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W5
+U 1 1 5E9366F9
+P 13300 1100
+F 0 "W5" V 13300 1100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1100 50  0001 C CNN
+F 3 "~" H 13300 1100 50  0001 C CNN
+	1    13300 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W8
+U 1 1 5E936703
+P 13300 1200
+F 0 "W8" V 13300 1200 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1304 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1200 50  0001 C CNN
+F 3 "~" H 13300 1200 50  0001 C CNN
+	1    13300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W11
+U 1 1 5E93670D
+P 13300 1300
+F 0 "W11" V 13300 1300 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1404 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1300 50  0001 C CNN
+F 3 "~" H 13300 1300 50  0001 C CNN
+	1    13300 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W13
+U 1 1 5E936717
+P 13300 1400
+F 0 "W13" V 13300 1400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1400 50  0001 C CNN
+F 3 "~" H 13300 1400 50  0001 C CNN
+	1    13300 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W16
+U 1 1 5E936721
+P 13300 1500
+F 0 "W16" V 13300 1500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1500 50  0001 C CNN
+F 3 "~" H 13300 1500 50  0001 C CNN
+	1    13300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W19
+U 1 1 5E936735
+P 13300 1700
+F 0 "W19" V 13300 1700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1700 50  0001 C CNN
+F 3 "~" H 13300 1700 50  0001 C CNN
+	1    13300 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W22
+U 1 1 5E93673F
+P 13300 1800
+F 0 "W22" V 13300 1800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 1904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1800 50  0001 C CNN
+F 3 "~" H 13300 1800 50  0001 C CNN
+	1    13300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W24
+U 1 1 5E936749
+P 13300 1900
+F 0 "W24" V 13300 1900 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2004 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 1900 50  0001 C CNN
+F 3 "~" H 13300 1900 50  0001 C CNN
+	1    13300 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W27
+U 1 1 5E936753
+P 13300 2000
+F 0 "W27" V 13300 2000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2000 50  0001 C CNN
+F 3 "~" H 13300 2000 50  0001 C CNN
+	1    13300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W30
+U 1 1 5E93675D
+P 13300 2100
+F 0 "W30" V 13300 2100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2100 50  0001 C CNN
+F 3 "~" H 13300 2100 50  0001 C CNN
+	1    13300 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W33
+U 1 1 5E936767
+P 13300 2200
+F 0 "W33" V 13300 2200 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2304 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2200 50  0001 C CNN
+F 3 "~" H 13300 2200 50  0001 C CNN
+	1    13300 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W37
+U 1 1 5E936771
+P 13300 2400
+F 0 "W37" V 13300 2400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2400 50  0001 C CNN
+F 3 "~" H 13300 2400 50  0001 C CNN
+	1    13300 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W40
+U 1 1 5E93677B
+P 13300 2500
+F 0 "W40" V 13300 2500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2500 50  0001 C CNN
+F 3 "~" H 13300 2500 50  0001 C CNN
+	1    13300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W43
+U 1 1 5E936785
+P 13300 2700
+F 0 "W43" V 13300 2700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2700 50  0001 C CNN
+F 3 "~" H 13300 2700 50  0001 C CNN
+	1    13300 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W46
+U 1 1 5E93678F
+P 13300 2800
+F 0 "W46" V 13300 2800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2800 50  0001 C CNN
+F 3 "~" H 13300 2800 50  0001 C CNN
+	1    13300 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W53
+U 1 1 5E936799
+P 13300 3100
+F 0 "W53" V 13300 3100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3100 50  0001 C CNN
+F 3 "~" H 13300 3100 50  0001 C CNN
+	1    13300 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W56
+U 1 1 5E9367A3
+P 13300 3200
+F 0 "W56" V 13300 3200 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3304 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3200 50  0001 C CNN
+F 3 "~" H 13300 3200 50  0001 C CNN
+	1    13300 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W58
+U 1 1 5E9367AD
+P 13300 3300
+F 0 "W58" V 13300 3300 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3404 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3300 50  0001 C CNN
+F 3 "~" H 13300 3300 50  0001 C CNN
+	1    13300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W61
+U 1 1 5E9367B7
+P 13300 3400
+F 0 "W61" V 13300 3400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3400 50  0001 C CNN
+F 3 "~" H 13300 3400 50  0001 C CNN
+	1    13300 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W64
+U 1 1 5E9367C1
+P 13300 3500
+F 0 "W64" V 13300 3500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3500 50  0001 C CNN
+F 3 "~" H 13300 3500 50  0001 C CNN
+	1    13300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W66
+U 1 1 5E9367CB
+P 13300 3600
+F 0 "W66" V 13300 3600 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3704 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3600 50  0001 C CNN
+F 3 "~" H 13300 3600 50  0001 C CNN
+	1    13300 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W34
+U 1 1 5E9367D5
+P 13300 2300
+F 0 "W34" V 13300 2300 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 2404 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2300 50  0001 C CNN
+F 3 "~" H 13300 2300 50  0001 C CNN
+	1    13300 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W50
+U 1 1 5E9367E9
+P 13300 3000
+F 0 "W50" V 13300 3000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3000 50  0001 C CNN
+F 3 "~" H 13300 3000 50  0001 C CNN
+	1    13300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W48
+U 1 1 5E9367F3
+P 13300 2900
+F 0 "W48" V 13300 2900 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3004 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 2900 50  0001 C CNN
+F 3 "~" H 13300 2900 50  0001 C CNN
+	1    13300 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W68
+U 1 1 5E9367FD
+P 13300 3700
+F 0 "W68" V 13300 3700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3700 50  0001 C CNN
+F 3 "~" H 13300 3700 50  0001 C CNN
+	1    13300 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W71
+U 1 1 5E936807
+P 13300 3800
+F 0 "W71" V 13300 3800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 13300 3904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 13300 3800 50  0001 C CNN
+F 3 "~" H 13300 3800 50  0001 C CNN
+	1    13300 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W3
+U 1 1 5E941100
+P 14450 1000
+F 0 "W3" V 14450 1000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 1104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1000 50  0001 C CNN
+F 3 "~" H 14450 1000 50  0001 C CNN
+	1    14450 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W6
+U 1 1 5E94110A
+P 14450 1100
+F 0 "W6" V 14450 1100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 1204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1100 50  0001 C CNN
+F 3 "~" H 14450 1100 50  0001 C CNN
+	1    14450 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W9
+U 1 1 5E941114
+P 14450 1200
+F 0 "W9" V 14450 1200 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 1304 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1200 50  0001 C CNN
+F 3 "~" H 14450 1200 50  0001 C CNN
+	1    14450 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W14
+U 1 1 5E941128
+P 14450 1400
+F 0 "W14" V 14450 1400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 1504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1400 50  0001 C CNN
+F 3 "~" H 14450 1400 50  0001 C CNN
+	1    14450 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W17
+U 1 1 5E941132
+P 14450 1500
+F 0 "W17" V 14450 1500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 1604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1500 50  0001 C CNN
+F 3 "~" H 14450 1500 50  0001 C CNN
+	1    14450 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W20
+U 1 1 5E941146
+P 14450 1700
+F 0 "W20" V 14450 1700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 1804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1700 50  0001 C CNN
+F 3 "~" H 14450 1700 50  0001 C CNN
+	1    14450 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W23
+U 1 1 5E941150
+P 14450 1800
+F 0 "W23" V 14450 1800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 1904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1800 50  0001 C CNN
+F 3 "~" H 14450 1800 50  0001 C CNN
+	1    14450 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W25
+U 1 1 5E94115A
+P 14450 1900
+F 0 "W25" V 14450 1900 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2004 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 1900 50  0001 C CNN
+F 3 "~" H 14450 1900 50  0001 C CNN
+	1    14450 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W28
+U 1 1 5E941164
+P 14450 2000
+F 0 "W28" V 14450 2000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2000 50  0001 C CNN
+F 3 "~" H 14450 2000 50  0001 C CNN
+	1    14450 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W31
+U 1 1 5E94116E
+P 14450 2100
+F 0 "W31" V 14450 2100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2100 50  0001 C CNN
+F 3 "~" H 14450 2100 50  0001 C CNN
+	1    14450 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W38
+U 1 1 5E941182
+P 14450 2400
+F 0 "W38" V 14450 2400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2400 50  0001 C CNN
+F 3 "~" H 14450 2400 50  0001 C CNN
+	1    14450 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W41
+U 1 1 5E94118C
+P 14450 2500
+F 0 "W41" V 14450 2500 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2604 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2500 50  0001 C CNN
+F 3 "~" H 14450 2500 50  0001 C CNN
+	1    14450 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W44
+U 1 1 5E941196
+P 14450 2700
+F 0 "W44" V 14450 2700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2700 50  0001 C CNN
+F 3 "~" H 14450 2700 50  0001 C CNN
+	1    14450 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W47
+U 1 1 5E9411A0
+P 14450 2800
+F 0 "W47" V 14450 2800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2800 50  0001 C CNN
+F 3 "~" H 14450 2800 50  0001 C CNN
+	1    14450 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W54
+U 1 1 5E9411AA
+P 14450 3100
+F 0 "W54" V 14450 3100 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3204 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 3100 50  0001 C CNN
+F 3 "~" H 14450 3100 50  0001 C CNN
+	1    14450 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W59
+U 1 1 5E9411BE
+P 14450 3300
+F 0 "W59" V 14450 3300 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3404 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 3300 50  0001 C CNN
+F 3 "~" H 14450 3300 50  0001 C CNN
+	1    14450 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W62
+U 1 1 5E9411C8
+P 14450 3400
+F 0 "W62" V 14450 3400 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3504 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 3400 50  0001 C CNN
+F 3 "~" H 14450 3400 50  0001 C CNN
+	1    14450 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W67
+U 1 1 5E9411DC
+P 14450 3600
+F 0 "W67" V 14450 3600 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3704 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 3600 50  0001 C CNN
+F 3 "~" H 14450 3600 50  0001 C CNN
+	1    14450 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W35
+U 1 1 5E9411E6
+P 14450 2300
+F 0 "W35" V 14450 2300 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 2404 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2300 50  0001 C CNN
+F 3 "~" H 14450 2300 50  0001 C CNN
+	1    14450 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W51
+U 1 1 5E9411FA
+P 14450 3000
+F 0 "W51" V 14450 3000 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3104 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 3000 50  0001 C CNN
+F 3 "~" H 14450 3000 50  0001 C CNN
+	1    14450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W49
+U 1 1 5E941204
+P 14450 2900
+F 0 "W49" V 14450 2900 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3004 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 2900 50  0001 C CNN
+F 3 "~" H 14450 2900 50  0001 C CNN
+	1    14450 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W69
+U 1 1 5E94120E
+P 14450 3700
+F 0 "W69" V 14450 3700 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3804 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 3700 50  0001 C CNN
+F 3 "~" H 14450 3700 50  0001 C CNN
+	1    14450 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_2Pole W72
+U 1 1 5E941218
+P 14450 3800
+F 0 "W72" V 14450 3800 28  0000 C CNN
+F 1 "TestPoint_2Pole" H 14450 3904 50  0001 C CNN
+F 2 "rusefi_lib:SM0805_jumper" H 14450 3800 50  0001 C CNN
+F 3 "~" H 14450 3800 50  0001 C CNN
+	1    14450 3800
+	1    0    0    -1  
+$EndComp
+Text Label 11700 1000 2    50   ~ 0
+INJ1
+Text Label 11700 1100 2    50   ~ 0
+INJ2
+Text Label 11700 1200 2    50   ~ 0
+INJ3
+Text Label 11700 1300 2    50   ~ 0
+INJ4
+Text Label 13100 1000 2    50   ~ 0
+FAN
+Text Label 11700 1400 2    50   ~ 0
+FP_RELAY
+Text Label 13100 1500 2    50   ~ 0
+IAC-
+Text Label 14250 1500 2    50   ~ 0
+MIL
+Text Label 11700 1700 2    50   ~ 0
+INJECTOR_GND
+Text Label 13100 1700 2    50   ~ 0
+ECU_GND
+Text Label 14250 1800 2    50   ~ 0
+COIL1_OEM
+Text Label 13100 1900 2    50   ~ 0
+MAIN_RELAY
+Text Label 14250 1900 2    50   ~ 0
+COIL2_OEM
+Text Label 11700 2100 2    50   ~ 0
+ALT_CONTROL
+Text Label 14250 2100 2    50   ~ 0
+TACHO
+Text Label 14250 2300 2    50   ~ 0
+VSS
+Text Label 11700 2400 2    50   ~ 0
+ALT_WARNING
+Text Label 13100 2400 2    50   ~ 0
+CAM
+Text Label 13100 2500 2    50   ~ 0
+CRANK
+Text Label 13100 3700 2    50   ~ 0
+FUEL_LEVEL
+Text Label 14250 3700 2    50   ~ 0
+EGR_BARO
+Text Label 11700 3800 2    50   ~ 0
++12_MR
+Text Label 13100 2700 2    50   ~ 0
+BRAKE
+Text Label 13100 2900 2    50   ~ 0
+NEUTRAL
+Text Label 14250 2900 2    50   ~ 0
+CLUTCH
+Text Label 11700 3100 2    50   ~ 0
++5V_SENSOR_OEM
+Text Label 13100 3100 2    50   ~ 0
+KNOCK
+Text Label 14250 3100 2    50   ~ 0
+IAT_OEM
+Text Label 11700 3200 2    50   ~ 0
+GND_SENSOR_OEM
+Text Label 13100 3200 2    50   ~ 0
+CLT
+Text Label 11700 3300 2    50   ~ 0
+VVT-
+Text Label 13100 3300 2    50   ~ 0
+ECU_POWER
+Text Label 13100 3400 2    50   ~ 0
+TPS
+Text Label 13100 3500 2    50   ~ 0
+MAF
+Text Label 14250 1000 2    50   ~ 0
+AC_FAN
+Text Label 13100 1300 2    50   ~ 0
+AC_CLUTCH
+Text Label 14250 2800 2    50   ~ 0
+AC_IN
+Text Label 13100 1100 2    50   ~ 0
+EGR_COIL_1
+Text Label 14250 1100 2    50   ~ 0
+EGR_COIL_2
+Text Label 13100 1200 2    50   ~ 0
+EGR_COIL_3
+Text Label 14250 1200 2    50   ~ 0
+EGR_COIL_4
+Text Label 13100 1400 2    50   ~ 0
+VTCS-
+Text Label 11700 1500 2    50   ~ 0
+IAC+
+Text Label 14250 1700 2    50   ~ 0
+PURGE_SOL
+Text Label 11700 1800 2    50   ~ 0
+EGR_SENSOR_SOL
+Text Label 11700 2000 2    50   ~ 0
+FRONT_O2_HEATER_GND
+Text Label 11700 2200 2    50   ~ 0
+REAR_NB_O2
+Text Label 13100 2200 2    50   ~ 0
+K_LINE
+Text Label 13100 2300 2    50   ~ 0
+IMMO_COM
+Text Label 14250 2400 2    50   ~ 0
+SPARE_OEM_4
+Text Label 14250 2500 2    50   ~ 0
+SPARE_OEM_6
+Text Label 11700 2500 2    50   ~ 0
+SPARE_OEM_5
+Text Label 14250 3600 2    50   ~ 0
+SPARE_OEM_9
+Text Label 11700 3400 2    50   ~ 0
+SPARE_OEM_8
+Text Label 14250 3000 2    50   ~ 0
+SPARE_OEM_7
+Text Label 11700 2700 2    50   ~ 0
+GND_CRANK_CAM_MAF
+Text Label 14250 2700 2    50   ~ 0
+PS_SWITCH
+Text Label 11700 2800 2    50   ~ 0
+VVT+
+Text Label 13100 2800 2    50   ~ 0
+DIAG_SW
+Text Label 13100 3800 2    50   ~ 0
+BAT+_HOT
+Text Label 14250 3800 2    50   ~ 0
+EVAP_LEAK_SHIT_2
+Text Label 14250 3400 2    50   ~ 0
+FRONT_O2
+Text Label 14250 3300 2    50   ~ 0
+ALT_FEEDBACK
+Text Label 13100 3600 2    50   ~ 0
+REAR_O2_HEATER_GND
+Text Label 11700 3500 2    50   ~ 0
+TCM_COMM_1
+Text Label 11700 3600 2    50   ~ 0
+TCM_COMM_2
+Text Label 13100 3000 2    50   ~ 0
+VTCS__VAC_SWITCH
+$Comp
+L Connector_Generic:Conn_01x35 PROT1
+U 1 1 5E9A17E8
+P 900 9225
+F 0 "PROT1" H 818 11142 50  0000 C CNN
+F 1 "Conn_01x35" H 818 11051 50  0000 C CNN
+F 2 "rusefi_lib:ampseal-35" H 900 9225 50  0001 C CNN
+F 3 "~" H 900 9225 50  0001 C CNN
+	1    900  9225
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x35 PROT2
+U 1 1 5E9A84A5
+P 3000 9225
+F 0 "PROT2" H 2900 11175 50  0000 L CNN
+F 1 "Conn_01x35" H 2775 11075 50  0000 L CNN
+F 2 "rusefi_lib:ampseal-35" H 3000 9225 50  0001 C CNN
+F 3 "~" H 3000 9225 50  0001 C CNN
+	1    3000 9225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x23 PROT3
+U 1 1 5E9AC183
+P 1975 6675
+F 0 "PROT3" V 2192 6671 50  0000 C CNN
+F 1 "Conn_01x23" V 2101 6671 50  0000 C CNN
+F 2 "rusefi_lib:ampseal-23" H 1975 6675 50  0001 C CNN
+F 3 "~" H 1975 6675 50  0001 C CNN
+	1    1975 6675
+	0    -1   -1   0   
+$EndComp
+Text Label 14250 1400 2    50   ~ 0
+FP_NO_IMMO
+Text Label 14250 2000 2    50   ~ 0
+SPARE_OEM_2
+Text Label 13100 1800 2    50   ~ 0
+SPARE_OEM_1
+Text Label 13100 2000 2    50   ~ 0
+EVAP_LEAK_SHIT_1
+Text Label 13100 2100 2    50   ~ 0
+SPARE_OEM_3
+Text Label 1100 7525 0    50   ~ 0
+HS2
+Text Label 1100 7625 0    50   ~ 0
+HS1
+Text Label 1100 7725 0    50   ~ 0
+LS1
+Text Label 1100 7825 0    50   ~ 0
+LS3
+Text Label 1100 7925 0    50   ~ 0
+LS5
+Text Label 1100 8025 0    50   ~ 0
+LS6
+Text Label 1100 8125 0    50   ~ 0
+LS7
+Text Label 1100 8225 0    50   ~ 0
+LS9
+Text Label 1100 8325 0    50   ~ 0
+LS11
+Text Label 1100 8425 0    50   ~ 0
+LS13
+Text Label 1100 8525 0    50   ~ 0
+LS14
+Text Label 1100 8625 0    50   ~ 0
+LS15
+Text Label 1100 8725 0    50   ~ 0
+HS3
+Text Label 1100 8825 0    50   ~ 0
+HS4
+Text Label 1100 8925 0    50   ~ 0
+LS2
+Text Label 1100 9025 0    50   ~ 0
+LS4
+Text Label 1100 9325 0    50   ~ 0
+LS8
+Text Label 1100 9425 0    50   ~ 0
+LS10
+Text Label 1100 9525 0    50   ~ 0
+LS12
+Text Label 1100 9625 0    50   ~ 0
+IGN3
+Text Label 1100 9725 0    50   ~ 0
+LS16
+Text Label 1100 9925 0    50   ~ 0
+IGN12
+Text Label 1100 10025 0    50   ~ 0
+IGN11
+Text Label 1100 10125 0    50   ~ 0
+IGN10
+Text Label 1100 10225 0    50   ~ 0
+IGN9
+Text Label 1100 10325 0    50   ~ 0
+IGN8
+Text Label 1100 10425 0    50   ~ 0
+IGN7
+Text Label 1100 10525 0    50   ~ 0
+IGN6
+Text Label 1100 10625 0    50   ~ 0
+IGN5
+Text Label 1100 10725 0    50   ~ 0
+IGN4
+Text Label 1100 10825 0    50   ~ 0
+IGN2
+Text Label 1100 10925 0    50   ~ 0
+IGN1
+Text Label 2800 10925 2    50   ~ 0
+KNOCK2
+Text Label 2800 10825 2    50   ~ 0
+KNOCK1
+Text Label 2800 10725 2    50   ~ 0
+5V_SENSOR_2
+Text Label 2800 10625 2    50   ~ 0
+5V_SENSOR_1
+Text Label 2800 10525 2    50   ~ 0
+AT4
+Text Label 2800 10425 2    50   ~ 0
+AT2
+Text Label 2800 10325 2    50   ~ 0
+AV12
+Text Label 2800 10225 2    50   ~ 0
+AV10
+Text Label 2800 10125 2    50   ~ 0
+AV8
+Text Label 2800 10025 2    50   ~ 0
+AV6
+Text Label 2800 9925 2    50   ~ 0
+AV4
+Text Label 2800 9825 2    50   ~ 0
+AV2
+Text Label 2800 9625 2    50   ~ 0
+5V_SENSOR_2
+Text Label 2800 9525 2    50   ~ 0
+5V_SENSOR_1
+Text Label 2800 9425 2    50   ~ 0
+AT3
+Text Label 2800 9325 2    50   ~ 0
+AT1
+Text Label 2800 9225 2    50   ~ 0
+AV11
+Text Label 2800 9125 2    50   ~ 0
+AV9
+Text Label 2800 9025 2    50   ~ 0
+AV7
+Text Label 2800 8925 2    50   ~ 0
+AV5
+Text Label 2800 8825 2    50   ~ 0
+AV3
+Text Label 2800 8725 2    50   ~ 0
+AV1
+Text Label 2800 8625 2    50   ~ 0
+12V_PROTECT_2
+Text Label 2800 8525 2    50   ~ 0
+12V_PROTECT_1
+Text Label 2800 8425 2    50   ~ 0
+5V_SENSOR_2
+Text Label 2800 8325 2    50   ~ 0
+5V_SENSOR_1
+Wire Wire Line
+	2800 7525 2800 7575
+Connection ~ 2800 7625
+Wire Wire Line
+	2800 7625 2800 7725
+Connection ~ 2800 7725
+Wire Wire Line
+	2800 7725 2800 7825
+Connection ~ 2800 7825
+Wire Wire Line
+	2800 7825 2800 7925
+Connection ~ 2800 7925
+Wire Wire Line
+	2800 7925 2800 8025
+Connection ~ 2800 8025
+Wire Wire Line
+	2800 8025 2800 8125
+Connection ~ 2800 8125
+Wire Wire Line
+	2800 8125 2800 8225
+$Comp
+L power:GND #PWR0101
+U 1 1 5E9FF238
+P 2800 7575
+F 0 "#PWR0101" H 2800 7325 50  0001 C CNN
+F 1 "GND" V 2805 7447 50  0000 R CNN
+F 2 "" H 2800 7575 50  0001 C CNN
+F 3 "" H 2800 7575 50  0001 C CNN
+	1    2800 7575
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5EA0014B
+P 2600 9725
+F 0 "#PWR0102" H 2600 9475 50  0001 C CNN
+F 1 "GND" V 2605 9597 50  0000 R CNN
+F 2 "" H 2600 9725 50  0001 C CNN
+F 3 "" H 2600 9725 50  0001 C CNN
+	1    2600 9725
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5EA014E8
+P 1450 9825
+F 0 "#PWR0103" H 1450 9575 50  0001 C CNN
+F 1 "GND" V 1455 9697 50  0000 R CNN
+F 2 "" H 1450 9825 50  0001 C CNN
+F 3 "" H 1450 9825 50  0001 C CNN
+	1    1450 9825
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5EA01F0D
+P 1350 9225
+F 0 "#PWR0104" H 1350 8975 50  0001 C CNN
+F 1 "GND" V 1355 9097 50  0000 R CNN
+F 2 "" H 1350 9225 50  0001 C CNN
+F 3 "" H 1350 9225 50  0001 C CNN
+	1    1350 9225
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5EA028FB
+P 1350 9125
+F 0 "#PWR0105" H 1350 8875 50  0001 C CNN
+F 1 "GND" V 1355 8997 50  0000 R CNN
+F 2 "" H 1350 9125 50  0001 C CNN
+F 3 "" H 1350 9125 50  0001 C CNN
+	1    1350 9125
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1100 9125 1350 9125
+Wire Wire Line
+	1350 9225 1100 9225
+Wire Wire Line
+	2800 9725 2600 9725
+Text Label 875  6875 3    50   ~ 0
+DIGITAL_2
+Text Label 975  6875 3    50   ~ 0
+DIGITAL_3
+Text Label 1075 6875 3    50   ~ 0
+DIGITAL_4
+Text Label 1175 6875 3    50   ~ 0
+VR2+
+Text Label 1275 6875 3    50   ~ 0
+VR1+
+Text Label 2975 6875 3    50   ~ 0
+USB_SHIELD
+Text Label 2175 6875 3    50   ~ 0
+USB_D-
+Text Label 1375 6875 3    50   ~ 0
+ETB1-
+Text Label 1675 6875 3    50   ~ 0
+DIGITAL_5
+Text Label 1775 6875 3    50   ~ 0
+DIGITAL_1
+Text Label 1875 6875 3    50   ~ 0
+DIGITAL_6
+Text Label 1975 6875 3    50   ~ 0
+VR2-
+Text Label 2075 6875 3    50   ~ 0
+VR1-
+Text Label 2875 6875 3    50   ~ 0
+USB_D+
+Text Label 1475 6875 3    50   ~ 0
+ETB1+
+Text Label 2375 6875 3    50   ~ 0
+CAN-
+Text Label 2475 6875 3    50   ~ 0
+CAN+
+Text Label 2575 6875 3    50   ~ 0
+12V_RAW
+Text Label 1575 6875 3    50   ~ 0
+ETB2-
+Text Label 2275 6875 3    50   ~ 0
+ETB2+
+Text Label 3075 6875 3    50   ~ 0
+12V_MR
+$Comp
+L power:GND #PWR0106
+U 1 1 5EA12B3F
+P 2675 7075
+F 0 "#PWR0106" H 2675 6825 50  0001 C CNN
+F 1 "GND" H 2680 6902 50  0000 C CNN
+F 2 "" H 2675 7075 50  0001 C CNN
+F 3 "" H 2675 7075 50  0001 C CNN
+	1    2675 7075
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2675 7075 2675 6875
+NoConn ~ 2775 6875
+Wire Notes Line
+	550  11075 550  6275
+Wire Notes Line
+	550  6275 3300 6275
+Wire Notes Line
+	3300 6275 3300 11075
+Wire Notes Line
+	3300 11075 550  11075
+Text Notes 600  6200 0    50   ~ 0
+PROTEUS BOARD\n
+Wire Notes Line
+	15750 4025 10550 4025
+Wire Notes Line
+	10550 4025 10550 750 
+Wire Notes Line
+	10550 750  15750 750 
+Wire Notes Line
+	15750 750  15750 4025
+Text Notes 15000 4150 0    50   ~ 0
+OEM HARNESS SIDE\n
+$Comp
+L Connector_Generic:Conn_01x23 EXTENDED1
+U 1 1 5EA39A4E
+P 15500 5725
+F 0 "EXTENDED1" H 15580 5767 50  0000 L CNN
+F 1 "Conn_01x23" H 15580 5676 50  0000 L CNN
+F 2 "rusefi_lib:ampseal-23" H 15500 5725 50  0001 C CNN
+F 3 "~" H 15500 5725 50  0001 C CNN
+	1    15500 5725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x23 EXTENDED2
+U 1 1 5EA3BCAD
+P 13875 5725
+F 0 "EXTENDED2" H 13955 5767 50  0000 L CNN
+F 1 "Conn_01x23" H 13955 5676 50  0000 L CNN
+F 2 "rusefi_lib:ampseal-23" H 13875 5725 50  0001 C CNN
+F 3 "~" H 13875 5725 50  0001 C CNN
+	1    13875 5725
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	16050 4325 16050 7050
+Wire Notes Line
+	13000 7050 13000 4325
+Text Notes 14950 7200 0    50   ~ 0
+UNUSED PROTEUS OUTPUTS\n
+Text Label 13675 4625 2    50   ~ 0
+CAN+
+Text Label 13675 4725 2    50   ~ 0
+CAN-
+Text Notes 4175 3625 0    50   ~ 0
+OEM PIN ASSIGNATION\n
+Text Notes 11150 11050 0    50   ~ 0
+DEBUG_LEDS\n
+$Comp
+L power:GND #PWR0107
+U 1 1 5EA47E0F
+P 9900 10775
+F 0 "#PWR0107" H 9900 10525 50  0001 C CNN
+F 1 "GND" H 9905 10602 50  0000 C CNN
+F 2 "" H 9900 10775 50  0001 C CNN
+F 3 "" H 9900 10775 50  0001 C CNN
+	1    9900 10775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 5EA48214
+P 7525 9850
+F 0 "D3" V 7625 9850 50  0000 R CNN
+F 1 "LED" V 7473 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 7525 9850 50  0001 C CNN
+F 3 "~" H 7525 9850 50  0001 C CNN
+	1    7525 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 5EA49D85
+P 7525 10450
+F 0 "R7" V 7525 10400 50  0000 L CNN
+F 1 "2K" V 7595 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7455 10450 50  0001 C CNN
+F 3 "~" H 7525 10450 50  0001 C CNN
+	1    7525 10450
+	1    0    0    -1  
+$EndComp
+Text Label 7525 10600 3    50   ~ 0
+INJ1
+Wire Wire Line
+	7100 9475 7525 9475
+Wire Wire Line
+	7525 9475 7525 9700
+$Comp
+L Device:LED D4
+U 1 1 5EA56337
+P 7700 9850
+F 0 "D4" V 7800 9850 50  0000 R CNN
+F 1 "LED" V 7648 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 7700 9850 50  0001 C CNN
+F 3 "~" H 7700 9850 50  0001 C CNN
+	1    7700 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 5EA56341
+P 7700 10450
+F 0 "R8" V 7700 10400 50  0000 L CNN
+F 1 "2K" V 7770 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7630 10450 50  0001 C CNN
+F 3 "~" H 7700 10450 50  0001 C CNN
+	1    7700 10450
+	1    0    0    -1  
+$EndComp
+Text Label 7700 10600 3    50   ~ 0
+INJ2
+Wire Wire Line
+	7700 9475 7700 9700
+$Comp
+L Device:LED D5
+U 1 1 5EA58193
+P 7875 9850
+F 0 "D5" V 7975 9850 50  0000 R CNN
+F 1 "LED" V 7823 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 7875 9850 50  0001 C CNN
+F 3 "~" H 7875 9850 50  0001 C CNN
+	1    7875 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 5EA5819D
+P 7875 10450
+F 0 "R9" V 7875 10400 50  0000 L CNN
+F 1 "2K" V 7945 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7805 10450 50  0001 C CNN
+F 3 "~" H 7875 10450 50  0001 C CNN
+	1    7875 10450
+	1    0    0    -1  
+$EndComp
+Text Label 7875 10600 3    50   ~ 0
+INJ3
+Wire Wire Line
+	7875 9475 7875 9700
+$Comp
+L Device:LED D6
+U 1 1 5EA581A9
+P 8050 9850
+F 0 "D6" V 8150 9850 50  0000 R CNN
+F 1 "LED" V 7998 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 8050 9850 50  0001 C CNN
+F 3 "~" H 8050 9850 50  0001 C CNN
+	1    8050 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 5EA581B3
+P 8050 10450
+F 0 "R10" V 8050 10400 50  0000 L CNN
+F 1 "2K" V 8120 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7980 10450 50  0001 C CNN
+F 3 "~" H 8050 10450 50  0001 C CNN
+	1    8050 10450
+	1    0    0    -1  
+$EndComp
+Text Label 8050 10600 3    50   ~ 0
+INJ4
+Wire Wire Line
+	8050 9475 8050 9700
+$Comp
+L Device:LED D7
+U 1 1 5EA5CA2D
+P 8225 9850
+F 0 "D7" V 8325 9850 50  0000 R CNN
+F 1 "LED" V 8173 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 8225 9850 50  0001 C CNN
+F 3 "~" H 8225 9850 50  0001 C CNN
+	1    8225 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R11
+U 1 1 5EA5CA37
+P 8225 10450
+F 0 "R11" V 8225 10400 50  0000 L CNN
+F 1 "2K" V 8295 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8155 10450 50  0001 C CNN
+F 3 "~" H 8225 10450 50  0001 C CNN
+	1    8225 10450
+	1    0    0    -1  
+$EndComp
+Text Label 8225 10600 3    50   ~ 0
+FP_RELAY
+$Comp
+L Device:LED D8
+U 1 1 5EA5CA42
+P 8400 9850
+F 0 "D8" V 8500 9850 50  0000 R CNN
+F 1 "LED" V 8348 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 8400 9850 50  0001 C CNN
+F 3 "~" H 8400 9850 50  0001 C CNN
+	1    8400 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 5EA5CA4C
+P 8400 10450
+F 0 "R12" V 8400 10400 50  0000 L CNN
+F 1 "2K" V 8470 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8330 10450 50  0001 C CNN
+F 3 "~" H 8400 10450 50  0001 C CNN
+	1    8400 10450
+	1    0    0    -1  
+$EndComp
+Text Label 8400 10600 3    50   ~ 0
+MAIN_RELAY
+$Comp
+L Device:LED D9
+U 1 1 5EA5CA57
+P 8575 9850
+F 0 "D9" V 8675 9850 50  0000 R CNN
+F 1 "LED" V 8523 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 8575 9850 50  0001 C CNN
+F 3 "~" H 8575 9850 50  0001 C CNN
+	1    8575 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R13
+U 1 1 5EA5CA61
+P 8575 10450
+F 0 "R13" V 8575 10400 50  0000 L CNN
+F 1 "2K" V 8645 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8505 10450 50  0001 C CNN
+F 3 "~" H 8575 10450 50  0001 C CNN
+	1    8575 10450
+	1    0    0    -1  
+$EndComp
+Text Label 8575 10600 3    50   ~ 0
+FAN
+$Comp
+L Device:LED D10
+U 1 1 5EA5CA6C
+P 8750 9850
+F 0 "D10" V 8850 9850 50  0000 R CNN
+F 1 "LED" V 8698 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 8750 9850 50  0001 C CNN
+F 3 "~" H 8750 9850 50  0001 C CNN
+	1    8750 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 5EA5CA76
+P 8750 10450
+F 0 "R14" V 8750 10400 50  0000 L CNN
+F 1 "2K" V 8820 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8680 10450 50  0001 C CNN
+F 3 "~" H 8750 10450 50  0001 C CNN
+	1    8750 10450
+	1    0    0    -1  
+$EndComp
+Text Label 8750 10600 3    50   ~ 0
+MIL
+Wire Wire Line
+	7525 9475 7700 9475
+Connection ~ 7525 9475
+Connection ~ 7700 9475
+Wire Wire Line
+	7700 9475 7875 9475
+Connection ~ 7875 9475
+Wire Wire Line
+	7875 9475 8050 9475
+Wire Wire Line
+	8050 9475 8225 9475
+Wire Wire Line
+	8750 9475 8750 9700
+Connection ~ 8050 9475
+Wire Wire Line
+	8575 9700 8575 9475
+Connection ~ 8575 9475
+Wire Wire Line
+	8575 9475 8750 9475
+Wire Wire Line
+	8400 9700 8400 9475
+Connection ~ 8400 9475
+Wire Wire Line
+	8400 9475 8575 9475
+Wire Wire Line
+	8225 9700 8225 9475
+Connection ~ 8225 9475
+Wire Wire Line
+	8225 9475 8400 9475
+$Comp
+L Device:LED D18
+U 1 1 5EA6602B
+P 10675 10100
+F 0 "D18" V 10775 10100 50  0000 R CNN
+F 1 "LED" V 10623 9983 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 10675 10100 50  0001 C CNN
+F 3 "~" H 10675 10100 50  0001 C CNN
+	1    10675 10100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 5EA66035
+P 10675 9800
+F 0 "R6" V 10675 9750 50  0000 L CNN
+F 1 "2K" V 10745 9755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 10605 9800 50  0001 C CNN
+F 3 "~" H 10675 9800 50  0001 C CNN
+	1    10675 9800
+	-1   0    0    1   
+$EndComp
+Text Label 10675 9650 1    50   ~ 0
+IGN4
+Wire Wire Line
+	10675 10775 10675 10550
+$Comp
+L Device:LED D17
+U 1 1 5EA66041
+P 10500 10100
+F 0 "D17" V 10600 10100 50  0000 R CNN
+F 1 "LED" V 10448 9983 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 10500 10100 50  0001 C CNN
+F 3 "~" H 10500 10100 50  0001 C CNN
+	1    10500 10100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5EA6604B
+P 10500 9800
+F 0 "R5" V 10500 9750 50  0000 L CNN
+F 1 "2K" V 10570 9755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 10430 9800 50  0001 C CNN
+F 3 "~" H 10500 9800 50  0001 C CNN
+	1    10500 9800
+	-1   0    0    1   
+$EndComp
+Text Label 10500 9650 1    50   ~ 0
+IGN2
+Wire Wire Line
+	10500 10775 10500 10550
+$Comp
+L Device:LED D16
+U 1 1 5EA66057
+P 10325 10100
+F 0 "D16" V 10425 10100 50  0000 R CNN
+F 1 "LED" V 10273 9983 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 10325 10100 50  0001 C CNN
+F 3 "~" H 10325 10100 50  0001 C CNN
+	1    10325 10100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5EA66061
+P 10325 9800
+F 0 "R4" V 10325 9750 50  0000 L CNN
+F 1 "2K" V 10395 9755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 10255 9800 50  0001 C CNN
+F 3 "~" H 10325 9800 50  0001 C CNN
+	1    10325 9800
+	-1   0    0    1   
+$EndComp
+Text Label 10325 9650 1    50   ~ 0
+ALT_CONTROL
+$Comp
+L Device:LED D15
+U 1 1 5EA6606C
+P 10150 10100
+F 0 "D15" V 10250 10100 50  0000 R CNN
+F 1 "LED" V 10098 9983 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 10150 10100 50  0001 C CNN
+F 3 "~" H 10150 10100 50  0001 C CNN
+	1    10150 10100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5EA66076
+P 10150 9800
+F 0 "R3" V 10150 9750 50  0000 L CNN
+F 1 "2K" V 10220 9755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 10080 9800 50  0001 C CNN
+F 3 "~" H 10150 9800 50  0001 C CNN
+	1    10150 9800
+	-1   0    0    1   
+$EndComp
+Text Label 10150 9650 1    50   ~ 0
+TACHO
+$Comp
+L Device:LED D14
+U 1 1 5EA66081
+P 9975 10100
+F 0 "D14" V 10075 10100 50  0000 R CNN
+F 1 "LED" V 9923 9983 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 9975 10100 50  0001 C CNN
+F 3 "~" H 9975 10100 50  0001 C CNN
+	1    9975 10100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5EA6608B
+P 9975 9800
+F 0 "R2" V 9975 9750 50  0000 L CNN
+F 1 "2K" V 10045 9755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 9905 9800 50  0001 C CNN
+F 3 "~" H 9975 9800 50  0001 C CNN
+	1    9975 9800
+	-1   0    0    1   
+$EndComp
+Text Label 9975 9650 1    50   ~ 0
+COIL2_OEM
+$Comp
+L Device:LED D13
+U 1 1 5EA66096
+P 9800 10100
+F 0 "D13" V 9900 10100 50  0000 R CNN
+F 1 "LED" V 9748 9983 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 9800 10100 50  0001 C CNN
+F 3 "~" H 9800 10100 50  0001 C CNN
+	1    9800 10100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5EA660A0
+P 9800 9800
+F 0 "R1" V 9800 9750 50  0000 L CNN
+F 1 "2K" V 9870 9755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 9730 9800 50  0001 C CNN
+F 3 "~" H 9800 9800 50  0001 C CNN
+	1    9800 9800
+	-1   0    0    1   
+$EndComp
+Text Label 9800 9650 1    50   ~ 0
+COIL1_OEM
+Wire Wire Line
+	9800 10775 9800 10550
+Wire Wire Line
+	9975 10550 9975 10775
+Wire Wire Line
+	10150 10550 10150 10775
+Wire Wire Line
+	10325 10550 10325 10775
+Connection ~ 9975 10775
+Wire Wire Line
+	9975 10775 9900 10775
+Connection ~ 10150 10775
+Wire Wire Line
+	10150 10775 9975 10775
+Connection ~ 10325 10775
+Wire Wire Line
+	10325 10775 10150 10775
+Connection ~ 10500 10775
+Wire Wire Line
+	10500 10775 10325 10775
+Wire Wire Line
+	10675 10775 10500 10775
+Text Label 15475 7850 1    50   ~ 0
+IAC+
+Text Label 15675 7850 1    50   ~ 0
+VVT+
+$Comp
+L Device:LED D11
+U 1 1 5EAB181E
+P 8925 9850
+F 0 "D11" V 9025 9850 50  0000 R CNN
+F 1 "LED" V 8873 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 8925 9850 50  0001 C CNN
+F 3 "~" H 8925 9850 50  0001 C CNN
+	1    8925 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 5EAB1828
+P 8925 10450
+F 0 "R15" V 8925 10400 50  0000 L CNN
+F 1 "2K" V 8995 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8855 10450 50  0001 C CNN
+F 3 "~" H 8925 10450 50  0001 C CNN
+	1    8925 10450
+	1    0    0    -1  
+$EndComp
+Text Label 8925 10600 3    50   ~ 0
+IAC-
+$Comp
+L Device:LED D12
+U 1 1 5EAB1833
+P 9100 9850
+F 0 "D12" V 9200 9850 50  0000 R CNN
+F 1 "LED" V 9048 9733 50  0001 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 9100 9850 50  0001 C CNN
+F 3 "~" H 9100 9850 50  0001 C CNN
+	1    9100 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 5EAB183D
+P 9100 10450
+F 0 "R16" V 9100 10400 50  0000 L CNN
+F 1 "2K" V 9170 10405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 10450 50  0001 C CNN
+F 3 "~" H 9100 10450 50  0001 C CNN
+	1    9100 10450
+	1    0    0    -1  
+$EndComp
+Text Label 9100 10600 3    50   ~ 0
+VVT-
+Wire Wire Line
+	8925 9700 8925 9475
+Wire Wire Line
+	8925 9475 8750 9475
+Connection ~ 8750 9475
+Wire Wire Line
+	9100 9700 9100 9475
+Wire Wire Line
+	9100 9475 8925 9475
+Connection ~ 8925 9475
+Text Label 15475 8150 3    50   ~ 0
+IAC-
+Text Label 15675 8150 3    50   ~ 0
+VVT-
+Wire Notes Line
+	15050 9625 15050 7500
+Text Notes 15225 9725 0    50   ~ 0
+FLYBACK DIODES\n
+$Comp
+L Device:D_Schottky D22
+U 1 1 5EAC4311
+P 8050 10150
+F 0 "D22" H 8200 10100 50  0000 R CNN
+F 1 "D_Schottky" V 8005 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 8050 10150 50  0001 C CNN
+F 3 "~" H 8050 10150 50  0001 C CNN
+	1    8050 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D23
+U 1 1 5EAC4BE5
+P 8225 10150
+F 0 "D23" H 8375 10100 50  0000 R CNN
+F 1 "D_Schottky" V 8180 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 8225 10150 50  0001 C CNN
+F 3 "~" H 8225 10150 50  0001 C CNN
+	1    8225 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D24
+U 1 1 5EAC563F
+P 8400 10150
+F 0 "D24" H 8550 10100 50  0000 R CNN
+F 1 "D_Schottky" V 8355 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 8400 10150 50  0001 C CNN
+F 3 "~" H 8400 10150 50  0001 C CNN
+	1    8400 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D25
+U 1 1 5EAC6247
+P 8575 10150
+F 0 "D25" H 8725 10100 50  0000 R CNN
+F 1 "D_Schottky" V 8530 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 8575 10150 50  0001 C CNN
+F 3 "~" H 8575 10150 50  0001 C CNN
+	1    8575 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D26
+U 1 1 5EAC6ADA
+P 8750 10150
+F 0 "D26" H 8900 10100 50  0000 R CNN
+F 1 "D_Schottky" V 8705 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 8750 10150 50  0001 C CNN
+F 3 "~" H 8750 10150 50  0001 C CNN
+	1    8750 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D27
+U 1 1 5EAC75E3
+P 8925 10150
+F 0 "D27" H 9075 10100 50  0000 R CNN
+F 1 "D_Schottky" V 8880 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 8925 10150 50  0001 C CNN
+F 3 "~" H 8925 10150 50  0001 C CNN
+	1    8925 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D28
+U 1 1 5EAC8432
+P 9100 10150
+F 0 "D28" H 9250 10100 50  0000 R CNN
+F 1 "D_Schottky" V 9055 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 9100 10150 50  0001 C CNN
+F 3 "~" H 9100 10150 50  0001 C CNN
+	1    9100 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D19
+U 1 1 5EAC96E1
+P 7525 10150
+F 0 "D19" H 7675 10100 50  0000 R CNN
+F 1 "D_Schottky" V 7480 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 7525 10150 50  0001 C CNN
+F 3 "~" H 7525 10150 50  0001 C CNN
+	1    7525 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D20
+U 1 1 5EACA0C3
+P 7700 10150
+F 0 "D20" H 7850 10100 50  0000 R CNN
+F 1 "D_Schottky" V 7655 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 7700 10150 50  0001 C CNN
+F 3 "~" H 7700 10150 50  0001 C CNN
+	1    7700 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D21
+U 1 1 5EACAAE6
+P 7875 10150
+F 0 "D21" H 8025 10100 50  0000 R CNN
+F 1 "D_Schottky" V 7830 10071 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 7875 10150 50  0001 C CNN
+F 3 "~" H 7875 10150 50  0001 C CNN
+	1    7875 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D29
+U 1 1 5EACEF9F
+P 9800 10400
+F 0 "D29" H 9950 10350 50  0000 R CNN
+F 1 "D_Schottky" V 9755 10321 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 9800 10400 50  0001 C CNN
+F 3 "~" H 9800 10400 50  0001 C CNN
+	1    9800 10400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D30
+U 1 1 5EACF961
+P 9975 10400
+F 0 "D30" H 10125 10350 50  0000 R CNN
+F 1 "D_Schottky" V 9930 10321 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 9975 10400 50  0001 C CNN
+F 3 "~" H 9975 10400 50  0001 C CNN
+	1    9975 10400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D31
+U 1 1 5EAD036E
+P 10150 10400
+F 0 "D31" H 10300 10350 50  0000 R CNN
+F 1 "D_Schottky" V 10105 10321 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 10150 10400 50  0001 C CNN
+F 3 "~" H 10150 10400 50  0001 C CNN
+	1    10150 10400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D32
+U 1 1 5EAD0E7A
+P 10325 10400
+F 0 "D32" H 10475 10350 50  0000 R CNN
+F 1 "D_Schottky" V 10280 10321 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 10325 10400 50  0001 C CNN
+F 3 "~" H 10325 10400 50  0001 C CNN
+	1    10325 10400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D33
+U 1 1 5EAD1A76
+P 10500 10400
+F 0 "D33" H 10650 10350 50  0000 R CNN
+F 1 "D_Schottky" V 10455 10321 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 10500 10400 50  0001 C CNN
+F 3 "~" H 10500 10400 50  0001 C CNN
+	1    10500 10400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D34
+U 1 1 5EAD25F5
+P 10675 10400
+F 0 "D34" H 10825 10350 50  0000 R CNN
+F 1 "D_Schottky" V 10630 10321 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 10675 10400 50  0001 C CNN
+F 3 "~" H 10675 10400 50  0001 C CNN
+	1    10675 10400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Schottky D1
+U 1 1 5EAD4332
+P 15475 8000
+F 0 "D1" H 15625 7950 50  0000 R CNN
+F 1 "D_Schottky" V 15430 7921 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 15475 8000 50  0001 C CNN
+F 3 "~" H 15475 8000 50  0001 C CNN
+	1    15475 8000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Schottky D2
+U 1 1 5EAD4E43
+P 15675 8000
+F 0 "D2" H 15825 7950 50  0000 R CNN
+F 1 "D_Schottky" V 15630 7921 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" H 15675 8000 50  0001 C CNN
+F 3 "~" H 15675 8000 50  0001 C CNN
+	1    15675 8000
+	0    1    1    0   
+$EndComp
+Text Label 1075 1100 2    50   ~ 0
++12_MR
+Text Label 1525 1100 0    50   ~ 0
+VVT+
+Text Label 1525 1225 0    50   ~ 0
+IAC+
+Wire Wire Line
+	1075 1100 1200 1100
+Wire Wire Line
+	1200 1100 1200 1225
+Wire Wire Line
+	1200 1225 1525 1225
+Connection ~ 1200 1100
+Wire Wire Line
+	1200 1100 1525 1100
+Text Label 1525 1375 0    50   ~ 0
+12V_MR
+Wire Wire Line
+	1200 1225 1200 1375
+Wire Wire Line
+	1200 1375 1525 1375
+Connection ~ 1200 1225
+Text Label 1000 1750 2    50   ~ 0
+LS1
+Text Label 1000 1875 2    50   ~ 0
+LS2
+Text Label 1000 2000 2    50   ~ 0
+LS3
+Text Label 1000 2125 2    50   ~ 0
+LS4
+Text Label 1000 2250 2    50   ~ 0
+LS5
+Text Label 1000 2375 2    50   ~ 0
+LS6
+Text Label 1250 1750 0    50   ~ 0
+INJ1
+Text Label 1250 1875 0    50   ~ 0
+INJ2
+Text Label 1250 2000 0    50   ~ 0
+INJ3
+Text Label 1250 2125 0    50   ~ 0
+INJ4
+Text Label 1250 2250 0    50   ~ 0
+MAIN_RELAY
+Text Label 1250 2375 0    50   ~ 0
+FP_RELAY
+Text Label 1250 2500 0    50   ~ 0
+IAC-
+Text Label 1250 2625 0    50   ~ 0
+ALT_WARNING
+Text Label 1250 2750 0    50   ~ 0
+VVT-
+Text Label 1250 2875 0    50   ~ 0
+MIL
+Text Label 1250 3000 0    50   ~ 0
+FAN
+Text Label 1000 2500 2    50   ~ 0
+LS7
+Text Label 1000 2625 2    50   ~ 0
+LS8
+Text Label 1000 2750 2    50   ~ 0
+LS9
+Text Label 1000 2875 2    50   ~ 0
+LS10
+Text Label 1000 3000 2    50   ~ 0
+LS11
+Text Label 13675 4825 2    50   ~ 0
+VR1+
+Text Label 13675 4925 2    50   ~ 0
+VR1-
+Text Label 13675 5025 2    50   ~ 0
+VR2+
+Text Label 13675 5125 2    50   ~ 0
+VR2-
+Text Label 15300 4625 2    50   ~ 0
+LS12
+Text Label 15300 4725 2    50   ~ 0
+LS13
+Text Label 15300 4825 2    50   ~ 0
+LS14
+Text Label 15300 4925 2    50   ~ 0
+LS15
+Text Label 15300 5025 2    50   ~ 0
+LS16
+Text Label 15300 5125 2    50   ~ 0
+IGN2
+Text Label 15300 5225 2    50   ~ 0
+IGN4
+Text Label 15300 5325 2    50   ~ 0
+IGN5
+Text Label 15300 5425 2    50   ~ 0
+IGN6
+Text Label 15300 5525 2    50   ~ 0
+IGN7
+Text Label 15300 5625 2    50   ~ 0
+IGN8
+Text Label 15300 5725 2    50   ~ 0
+IGN9
+Text Label 15300 5825 2    50   ~ 0
+IGN10
+Text Label 15300 5925 2    50   ~ 0
+IGN11
+Text Label 15300 6025 2    50   ~ 0
+IGN12
+Text Label 15300 6525 2    50   ~ 0
+HS3
+Text Label 15300 6625 2    50   ~ 0
+HS4
+Text Label 13675 5225 2    50   ~ 0
+AT3
+Text Label 13675 5325 2    50   ~ 0
+AT4
+Text Label 13675 5625 2    50   ~ 0
+AV7
+Text Label 13675 5725 2    50   ~ 0
+AV8
+Text Label 13675 5825 2    50   ~ 0
+AV9
+Text Label 13675 5925 2    50   ~ 0
+AV10
+Text Label 13675 6025 2    50   ~ 0
+AV11
+Text Label 13675 6125 2    50   ~ 0
+AV12
+Text Label 13675 6825 2    50   ~ 0
+ETB2-
+Text Label 13675 6725 2    50   ~ 0
+ETB2+
+Text Label 13675 6625 2    50   ~ 0
+ETB1-
+Text Label 13675 6525 2    50   ~ 0
+ETB1+
+Text Label 13675 6225 2    50   ~ 0
+5V_SENSOR_1
+Text Label 13675 6325 2    50   ~ 0
+5V_SENSOR_2
+Text Label 15300 6725 2    50   ~ 0
+12V_PROTECT_2
+Wire Notes Line
+	16050 7050 13000 7050
+Wire Notes Line
+	13000 4325 16050 4325
+Text Label 7100 9475 2    50   ~ 0
+12V_PROTECT_1
+Wire Notes Line
+	6550 8875 6550 11075
+Wire Notes Line
+	6550 11075 10950 11075
+Wire Notes Line
+	10950 11075 10950 8875
+Wire Notes Line
+	10950 8875 6550 8875
+Wire Notes Line
+	15050 7500 15850 7500
+Wire Notes Line
+	15850 7500 15850 9625
+Wire Notes Line
+	15050 9625 15850 9625
+Text Label 2250 1750 2    50   ~ 0
+IGN1
+Text Label 2250 1875 2    50   ~ 0
+IGN3
+Text Label 2250 2000 2    50   ~ 0
+HS1
+Text Label 2250 2125 2    50   ~ 0
+HS2
+Text Label 2500 1750 0    50   ~ 0
+COIL1_OEM
+Text Label 2500 1875 0    50   ~ 0
+COIL2_OEM
+Text Label 2500 2000 0    50   ~ 0
+TACHO
+Text Label 2500 2125 0    50   ~ 0
+ALT_CONTROL
+Wire Wire Line
+	1000 1750 1250 1750
+Wire Wire Line
+	1000 1875 1250 1875
+Wire Wire Line
+	1000 2000 1250 2000
+Wire Wire Line
+	1000 2125 1250 2125
+Wire Wire Line
+	1000 2250 1250 2250
+Wire Wire Line
+	1000 2375 1250 2375
+Wire Wire Line
+	1000 2500 1250 2500
+Wire Wire Line
+	1000 2625 1250 2625
+Wire Wire Line
+	1000 2750 1250 2750
+Wire Wire Line
+	1000 2875 1250 2875
+Wire Wire Line
+	1000 3000 1250 3000
+Wire Wire Line
+	2250 1750 2500 1750
+Wire Wire Line
+	2250 1875 2500 1875
+Wire Wire Line
+	2250 2000 2500 2000
+Wire Wire Line
+	2250 2125 2500 2125
+Text Label 3600 1775 2    50   ~ 0
+AT1
+Text Label 3600 1900 2    50   ~ 0
+AT2
+Text Label 3600 2025 2    50   ~ 0
+AV3
+Text Label 3600 2150 2    50   ~ 0
+AV4
+Text Label 3600 2275 2    50   ~ 0
+AV5
+Text Label 3600 2400 2    50   ~ 0
+AV6
+Text Label 3850 1775 0    50   ~ 0
+CLT
+Text Label 3850 1900 0    50   ~ 0
+IAT_OEM
+Text Label 3850 2025 0    50   ~ 0
+TPS
+Text Label 3850 2150 0    50   ~ 0
+MAF
+Text Label 3850 2275 0    50   ~ 0
+FUEL_LEVEL
+Text Label 3850 2400 0    50   ~ 0
+EGR_BARO
+Wire Wire Line
+	3600 2400 3850 2400
+Wire Wire Line
+	3600 2275 3850 2275
+Wire Wire Line
+	3600 2150 3850 2150
+Wire Wire Line
+	3600 2025 3850 2025
+Wire Wire Line
+	3600 1900 3850 1900
+Wire Wire Line
+	3600 1775 3850 1775
+Text Label 2250 2500 2    50   ~ 0
+DIGITAL_1
+Text Label 2250 2625 2    50   ~ 0
+DIGITAL_2
+Text Label 2250 2750 2    50   ~ 0
+DIGITAL_3
+Text Label 2250 2875 2    50   ~ 0
+DIGITAL_4
+Text Label 2250 3000 2    50   ~ 0
+DIGITAL_5
+Text Label 2250 3125 2    50   ~ 0
+DIGITAL_6
+Text Label 2500 2500 0    50   ~ 0
+CRANK
+Text Label 2500 2625 0    50   ~ 0
+CAM
+Text Label 2500 2750 0    50   ~ 0
+VSS
+Text Label 2500 2875 0    50   ~ 0
+CLUTCH
+Text Label 2500 3000 0    50   ~ 0
+NEUTRAL
+Text Label 2500 3125 0    50   ~ 0
+BRAKE
+Wire Wire Line
+	2250 2500 2500 2500
+Wire Wire Line
+	2250 2625 2500 2625
+Wire Wire Line
+	2250 2750 2500 2750
+Wire Wire Line
+	2250 2875 2500 2875
+Wire Wire Line
+	2250 3000 2500 3000
+Wire Wire Line
+	2250 3125 2500 3125
+$Comp
+L power:GND #PWR0109
+U 1 1 5EBC61E9
+P 2175 1000
+F 0 "#PWR0109" H 2175 750 50  0001 C CNN
+F 1 "GND" V 2180 872 50  0000 R CNN
+F 2 "" H 2175 1000 50  0001 C CNN
+F 3 "" H 2175 1000 50  0001 C CNN
+	1    2175 1000
+	0    1    1    0   
+$EndComp
+Text Label 2500 1000 0    50   ~ 0
+INJECTOR_GND
+Text Label 2500 1125 0    50   ~ 0
+ECU_GND
+Text Label 2500 1250 0    50   ~ 0
+GND_SENSOR_OEM
+Wire Wire Line
+	2250 1000 2250 1125
+Wire Wire Line
+	2250 1125 2500 1125
+Wire Wire Line
+	2250 1250 2500 1250
+Connection ~ 2250 1125
+Wire Wire Line
+	2250 1125 2250 1250
+Text Label 3750 1000 2    50   ~ 0
+12V_RAW
+Text Label 4000 1000 0    50   ~ 0
+ECU_POWER
+Wire Wire Line
+	3750 1000 4000 1000
+Text Label 3750 1125 2    50   ~ 0
+5V_SENSOR_1
+Text Label 4000 1125 0    50   ~ 0
++5V_SENSOR_OEM
+Wire Wire Line
+	3750 1125 4000 1125
+Wire Notes Line
+	750  3500 5000 3500
+Wire Notes Line
+	5000 3500 5000 725 
+Wire Notes Line
+	5000 725  750  725 
+Wire Notes Line
+	750  725  750  3500
+Text Label 6150 1000 0    50   ~ 0
+SPARE_OEM_1
+Text Label 6150 1125 0    50   ~ 0
+SPARE_OEM_2
+Text Label 6150 1250 0    50   ~ 0
+SPARE_OEM_3
+Text Label 6150 1375 0    50   ~ 0
+SPARE_OEM_4
+Text Label 6150 1500 0    50   ~ 0
+SPARE_OEM_5
+Text Label 6150 1625 0    50   ~ 0
+SPARE_OEM_6
+Text Label 6150 1750 0    50   ~ 0
+SPARE_OEM_7
+Text Label 6150 1875 0    50   ~ 0
+SPARE_OEM_8
+Text Label 6150 2000 0    50   ~ 0
+SPARE_OEM_9
+Text Label 13675 5425 2    50   ~ 0
+AV1
+Text Label 13675 5525 2    50   ~ 0
+AV2
+Text Label 5900 1000 2    50   ~ 0
+MAP
+Text Label 5900 1125 2    50   ~ 0
+WBO2
+Text Label 5900 1250 2    50   ~ 0
+IAT_AFTERMARKET
+Wire Wire Line
+	5900 1250 6150 1250
+Wire Wire Line
+	5900 1125 6150 1125
+Wire Wire Line
+	13450 6425 13675 6425
+$Comp
+L power:GND #PWR0110
+U 1 1 5EB19C66
+P 13450 6425
+F 0 "#PWR0110" H 13450 6175 50  0001 C CNN
+F 1 "GND" V 13455 6297 50  0000 R CNN
+F 2 "" H 13450 6425 50  0001 C CNN
+F 3 "" H 13450 6425 50  0001 C CNN
+	1    13450 6425
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5900 1000 6150 1000
+Text Label 5900 1375 2    50   ~ 0
+LS12
+Text Label 5900 1750 2    50   ~ 0
+AV10
+Text Label 5900 1875 2    50   ~ 0
+IGN2
+Text Label 5900 2000 2    50   ~ 0
+IGN4
+Text Label 5900 1625 2    50   ~ 0
+AV9
+Text Label 5900 1500 2    50   ~ 0
+LS13
+Wire Wire Line
+	5900 1375 6150 1375
+Wire Wire Line
+	5900 1500 6150 1500
+Wire Wire Line
+	5900 1625 6150 1625
+Wire Wire Line
+	5900 1750 6150 1750
+Wire Wire Line
+	5900 1875 6150 1875
+Wire Wire Line
+	5900 2000 6150 2000
+Wire Notes Line
+	5150 750  6900 750 
+Wire Notes Line
+	6900 750  6900 2250
+Wire Notes Line
+	6900 2250 5150 2250
+Wire Notes Line
+	5150 2250 5150 750 
+Text Notes 5800 2375 0    50   ~ 0
+SPARE OEM PIN ASSIGNATION\n
+Text Label 6000 2750 2    50   ~ 0
+AV1
+Text Label 6000 2875 2    50   ~ 0
+AV2
+Text Label 6000 3000 2    50   ~ 0
+AT3
+Text Label 6250 3000 0    50   ~ 0
+IAT_AFTERMARKET
+Text Label 6250 2875 0    50   ~ 0
+WBO2
+Text Label 6250 2750 0    50   ~ 0
+MAP
+Wire Notes Line
+	5150 2500 5150 3200
+Wire Notes Line
+	5150 3200 6900 3200
+Wire Notes Line
+	6900 3200 6900 2500
+Wire Notes Line
+	5150 2500 6900 2500
+Wire Wire Line
+	6000 2750 6250 2750
+Wire Wire Line
+	6000 2875 6250 2875
+Wire Wire Line
+	6000 3000 6250 3000
+Text Notes 5900 3375 0    50   ~ 0
+VITAL AFTERMARKET INPUTS
+Connection ~ 9900 10775
+Wire Wire Line
+	9900 10775 9800 10775
+Connection ~ 2800 7575
+Wire Wire Line
+	2800 7575 2800 7625
+Wire Wire Line
+	15300 6125 15175 6125
+Wire Wire Line
+	15175 6125 15175 6225
+Wire Wire Line
+	15175 6425 15300 6425
+Wire Wire Line
+	15300 6325 15175 6325
+Connection ~ 15175 6325
+Wire Wire Line
+	15175 6325 15175 6425
+Wire Wire Line
+	15175 6225 15300 6225
+Connection ~ 15175 6225
+Wire Wire Line
+	15175 6225 15175 6325
+NoConn ~ 13100 2000
+NoConn ~ 13100 2300
+NoConn ~ 13100 2200
+NoConn ~ 14250 1700
+NoConn ~ 14250 1400
+NoConn ~ 14250 1200
+NoConn ~ 14250 1100
+NoConn ~ 13100 1200
+NoConn ~ 13100 1100
+NoConn ~ 13100 1300
+NoConn ~ 13100 1400
+NoConn ~ 11700 1800
+NoConn ~ 11700 2000
+NoConn ~ 11700 2200
+Text Label 2500 1375 0    50   ~ 0
+GND_CRANK_CAM_MAF
+Wire Wire Line
+	2500 1375 2250 1375
+Wire Wire Line
+	2250 1375 2250 1250
+Connection ~ 2250 1250
+NoConn ~ 14250 2800
+NoConn ~ 14250 2700
+NoConn ~ 14250 3400
+NoConn ~ 14250 3300
+NoConn ~ 14250 3800
+NoConn ~ 13100 3800
+NoConn ~ 13100 3600
+NoConn ~ 13100 3100
+NoConn ~ 13100 3000
+NoConn ~ 13100 2800
+NoConn ~ 11700 3600
+NoConn ~ 11700 3500
+NoConn ~ 2875 6875
+NoConn ~ 2975 6875
+NoConn ~ 2175 6875
+NoConn ~ 14250 1000
+NoConn ~ 2800 10825
+NoConn ~ 2800 10925
+$Comp
+L power:GND #PWR0108
+U 1 1 5EB20B96
+P 15200 6825
+F 0 "#PWR0108" H 15200 6575 50  0001 C CNN
+F 1 "GND" V 15205 6697 50  0000 R CNN
+F 2 "" H 15200 6825 50  0001 C CNN
+F 3 "" H 15200 6825 50  0001 C CNN
+	1    15200 6825
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 5EAA2EE9
+P 15175 6425
+F 0 "#PWR0111" H 15175 6175 50  0001 C CNN
+F 1 "GND" V 15180 6297 50  0000 R CNN
+F 2 "" H 15175 6425 50  0001 C CNN
+F 3 "" H 15175 6425 50  0001 C CNN
+	1    15175 6425
+	0    1    1    0   
+$EndComp
+Connection ~ 15175 6425
+Wire Wire Line
+	1100 9825 1450 9825
+Wire Wire Line
+	15200 6825 15300 6825
+Wire Wire Line
+	2175 1000 2250 1000
+Connection ~ 2250 1000
+Wire Wire Line
+	2250 1000 2500 1000
+$EndSCHEMATC
