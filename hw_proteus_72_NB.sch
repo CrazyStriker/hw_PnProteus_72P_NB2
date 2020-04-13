@@ -2464,7 +2464,6 @@ NoConn ~ 14250 3300
 NoConn ~ 14250 3800
 NoConn ~ 13100 3800
 NoConn ~ 13100 3600
-NoConn ~ 13100 3100
 NoConn ~ 13100 3000
 NoConn ~ 13100 2800
 NoConn ~ 11700 3600
@@ -2473,7 +2472,6 @@ NoConn ~ 2875 6875
 NoConn ~ 2975 6875
 NoConn ~ 2175 6875
 NoConn ~ 14250 1000
-NoConn ~ 2800 10825
 NoConn ~ 2800 10925
 $Comp
 L power:GND #PWR0108
@@ -2507,4 +2505,10 @@ Wire Wire Line
 Connection ~ 2250 1000
 Wire Wire Line
 	2250 1000 2500 1000
+Text Label 3600 2525 2    50   ~ 0
+KNOCK1
+Text Label 3850 2525 0    50   ~ 0
+KNOCK
+Wire Wire Line
+	3600 2525 3850 2525
 $EndSCHEMATC
