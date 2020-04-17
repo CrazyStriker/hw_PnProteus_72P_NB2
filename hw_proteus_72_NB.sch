@@ -1783,8 +1783,6 @@ Text Label 15675 8150 3    50   ~ 0
 VVT-
 Wire Notes Line
 	15050 9625 15050 7500
-Text Notes 15225 9725 0    50   ~ 0
-FLYBACK DIODES\n
 $Comp
 L Device:D_Schottky D22
 U 1 1 5EAC4311
@@ -2030,13 +2028,13 @@ MAIN_RELAY
 Text Label 1250 2375 0    50   ~ 0
 FP_RELAY
 Text Label 1250 2500 0    50   ~ 0
-IAC-
+MIL
 Text Label 1250 2625 0    50   ~ 0
 ALT_WARNING
 Text Label 1250 2750 0    50   ~ 0
 VVT-
 Text Label 1250 2875 0    50   ~ 0
-MIL
+IAC-
 Text Label 1250 3000 0    50   ~ 0
 FAN
 Text Label 1000 2500 2    50   ~ 0
@@ -2088,7 +2086,7 @@ IGN11
 Text Label 15300 6025 2    50   ~ 0
 IGN12
 Text Label 15300 6525 2    50   ~ 0
-HS3
+HS2
 Text Label 15300 6625 2    50   ~ 0
 HS4
 Text Label 13675 5225 2    50   ~ 0
@@ -2148,7 +2146,7 @@ IGN3
 Text Label 2250 2000 2    50   ~ 0
 HS1
 Text Label 2250 2125 2    50   ~ 0
-HS2
+HS3
 Text Label 2500 1750 0    50   ~ 0
 COIL1_OEM
 Text Label 2500 1875 0    50   ~ 0
@@ -2511,4 +2509,44 @@ Text Label 3850 2525 0    50   ~ 0
 KNOCK
 Wire Wire Line
 	3600 2525 3850 2525
+Wire Notes Line
+	14650 7475 14650 9475
+Wire Notes Line
+	14650 9475 11475 9475
+Wire Notes Line
+	11475 9475 11475 7475
+Wire Notes Line
+	11475 7475 14650 7475
+Text Notes 15225 9725 0    50   ~ 0
+FLYBACK DIODES\n
+Text Notes 14000 9600 0    50   ~ 0
+PULL-UP/DOWN\n
+Text Label 12500 7750 2    50   ~ 0
+TACHO
+$Comp
+L power:GND #PWR0112
+U 1 1 5E9CA471
+P 13000 7750
+F 0 "#PWR0112" H 13000 7500 50  0001 C CNN
+F 1 "GND" V 13005 7622 50  0000 R CNN
+F 2 "" H 13000 7750 50  0001 C CNN
+F 3 "" H 13000 7750 50  0001 C CNN
+	1    13000 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 5E9CB898
+P 12750 7750
+F 0 "R17" V 12543 7750 50  0000 C CNN
+F 1 "1K" V 12634 7750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" V 12680 7750 50  0001 C CNN
+F 3 "~" H 12750 7750 50  0001 C CNN
+	1    12750 7750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	13000 7750 12900 7750
+Wire Wire Line
+	12600 7750 12500 7750
 $EndSCHEMATC
